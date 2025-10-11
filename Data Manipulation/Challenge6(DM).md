@@ -31,10 +31,11 @@ Go get it!
 
 ### Solve
 **Flag:** `pwn.college{guxy1nIh-KYllZ1sWXDgVcJinIo.0FM0MDOxwCM5AzNzEzW}`
-
+I used the sort command with the 'tail' argument to sort it numerically by the last line.
+Command - sort /challenge/flags.txt | tail -n 1
 
 ### New Learnings
-
+I learnt how to sort data in my Programs.
 
 ### References 
-
+Challenge Description
